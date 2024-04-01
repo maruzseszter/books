@@ -1,0 +1,130 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "author": "Nagy Ágnes",
+            "title": "Az elveszett idő nyomában",
+            "year": 2005,
+            "price": 0.005
+        },
+        {
+            "id": 2,
+            "author": "Kovács Péter",
+            "title": "A csillagok útja",
+            "year": 2010,
+            "price": 0.007
+        },
+        {
+            "id": 3,
+            "author": "Tóth Éva",
+            "title": "Az élet rövid, a múlt hosszú",
+            "year": 2018,
+            "price": 0.004
+        },
+        {
+            "id": 4,
+            "author": "Szabó László",
+            "title": "A pillangók éjszakája",
+            "year": 2007,
+            "price": 0.006
+        },
+        {
+            "id": 5,
+            "author": "Horváth Judit",
+            "title": "A szív órája",
+            "year": 2015,
+            "price": 0.005
+        },
+        {
+            "id": 6,
+            "author": "Molnár Gábor",
+            "title": "Az utolsó vonat",
+            "year": 2008,
+            "price": 0.007
+        },
+        {
+            "id": 7,
+            "author": "Varga Eszter",
+            "title": "A tűzvész árnyékában",
+            "year": 2012,
+            "price": 0.006
+        },
+        {
+            "id": 8,
+            "author": "Fekete Zsolt",
+            "title": "A csend szigete",
+            "year": 2009,
+            "price": 0.005
+        },
+        {
+            "id": 9,
+            "author": "Balogh Anna",
+            "title": "Az arany folyó",
+            "year": 2017,
+            "price": 0.008
+        },
+        {
+            "id": 10,
+            "author": "Mészáros Tamás",
+            "title": "A sötét erdő mélyén",
+            "year": 2013,
+            "price": 0.004
+        },
+        {
+            "id": 11,
+            "author": "Simon Viktória",
+            "title": "Az árnyak hálója",
+            "year": 2011,
+            "price": 0.006
+        },
+        {
+            "id": 12,
+            "author": "Fodor Dániel",
+            "title": "A titkok kulcsa",
+            "year": 2016,
+            "price": 0.005
+        },
+        {
+            "id": 13,
+            "author": "Lakatos Éva",
+            "title": "Az éj könyve",
+            "year": 2006,
+            "price": 0.007
+        },
+        {
+            "id": 14,
+            "author": "Papp Gergő",
+            "title": "A végtelen tenger",
+            "year": 2019,
+            "price": 0.004
+        },
+        {
+            "id": 15,
+            "author": "Király Zsuzsa",
+            "title": "Az elveszett világok",
+            "year": 2004,
+            "price": 0.006
+        },
+        {
+            "id": 16,
+            "author": "Fehér Bence",
+            "title": "A hold fénye",
+            "year": 2014,
+            "price": 0.005
+        },
+        {
+            "id": 17,
+            "author": "Takács Kinga",
+            "title": "Az elátkozott kastély",
+            "year": 2003,
+            "price": 0.007
+        },
+        {
+            "id": 18,
+            "author": "Kiss István",
+            "title": "Az árnyak birodalma",
+            "year": 2020,
+            "price": 0.004
+        }
+    ]
+}
